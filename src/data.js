@@ -1,0 +1,23 @@
+export const autoCompleteData = [
+  "Pink",
+  "Rose",
+  "Fuschia",
+  "Punch", 
+  "Currant", 
+  "Blush", 
+  "Candy", 
+  "Lipstick", 
+  "Watermelon", 
+  "Flamingo", 
+  "Rouge", 
+  "Salmon", 
+  "Coral", 
+  "Peach", 
+  "Strawberry", 
+  "Crepe", 
+  "Magenta", 
+  "Rosewood",    
+  "Lemonade", 
+  "Taffy",
+  "Bubblegum" 
+];
